@@ -1,0 +1,6 @@
+C:\AllFiles\dev\Indeprof\Blogs\SignalR\WebsiteHost\WebsiteHost\bin\WebsiteHost.dll.config
+C:\AllFiles\dev\Indeprof\Blogs\SignalR\WebsiteHost\WebsiteHost\bin\WebsiteHost.dll
+C:\AllFiles\dev\Indeprof\Blogs\SignalR\WebsiteHost\WebsiteHost\bin\WebsiteHost.pdb
+C:\AllFiles\dev\Indeprof\Blogs\SignalR\WebsiteHost\WebsiteHost\obj\Debug\WebsiteHost.csprojResolveAssemblyReference.cache
+C:\AllFiles\dev\Indeprof\Blogs\SignalR\WebsiteHost\WebsiteHost\obj\Debug\WebsiteHost.dll
+C:\AllFiles\dev\Indeprof\Blogs\SignalR\WebsiteHost\WebsiteHost\obj\Debug\WebsiteHost.pdb
